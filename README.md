@@ -1,3 +1,1 @@
-# newcode
-my first 
-written by me
+![](https://leetcard.jacoblin.cool/leetcode?site=cn)
