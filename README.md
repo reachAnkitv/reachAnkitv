@@ -1,7 +1,8 @@
-# Hi there 👋 I'm Rahul
+# Hi there 👋 I'm Ankit
 
 🚀 **Aspiring Software Developer | Java | DSA | Problem Solver**
 
 ### 🧠 Coding Profiles
 - **LeetCode:** [reachAnkit](https://leetcode.com/reachAnkit)  
-  ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=reachAnkit)
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/USERNAME?theme=dark
+)
