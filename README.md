@@ -4,5 +4,5 @@
 
 ### 🧠 Coding Profiles
 - **LeetCode:** [reachAnkit](https://leetcode.com/reachAnkit)  
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/reachAnkit?theme=dark
+  ![LeetCode Stats]([https://leetcard.jacoblin.cool/reachAnkit?theme=dark](https://leetcard.jacoblin.cool/USERNAME?theme=dark&font=Galindo&ext=heatmap)
 )
