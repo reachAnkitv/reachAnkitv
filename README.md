@@ -6,7 +6,7 @@
 - **LeetCode:** [reachAnkit](https://leetcode.com/reachAnkit)
 
 - 
-   geeksforgeeks--https://www.geeksforgeeks.org/profile/ankit0311v?tab=activity
+   geeksforgeeks--
 
 
 LINKEDIN--
