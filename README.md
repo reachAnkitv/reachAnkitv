@@ -1,14 +1,19 @@
-                             # Hi there 👋 I'm Ankit
+<div align="center">
 
-                             🚀 **Aspiring Software Developer | Java | DSA | Problem Solver**
+# Hi there 👋 I'm Ankit
 
-                             ### 🧠 Coding Profiles
-                             - **LeetCode:** [reachAnkit](https://leetcode.com/reachAnkit)
+🚀 **Aspiring Software Developer | Java | DSA | Problem Solver**
 
-                             - 
-                                geeksforgeeks--https://www.geeksforgeeks.org/profile/ankit0311v?tab=activity
+### 🧠 Coding Profiles
 
+**LeetCode:** [reachAnkit](https://leetcode.com/reachAnkit)
 
-                             LINKEDIN--
+**GeeksforGeeks:** [ankit0311v](https://www.geeksforgeeks.org/profile/ankit0311v?tab=activity)
 
-                             ![LeetCode Stats](https://leetcard.jacoblin.cool/reachAnkit?theme=dark&font=Ubuntu)
+**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile-url)
+
+---
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/reachAnkit?theme=dark&font=Ubuntu)
+
+</div>
