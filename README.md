@@ -8,7 +8,7 @@
 
 **LeetCode:** [reachAnkit](https://leetcode.com/reachAnkit)
 
-**GeeksforGeeks:** [ankit0311v](https://www.geeksforgeeks.org/profile/ankit0311v?tab=activity)
+**GeeksforGeeks:** [](https://www.geeksforgeeks.org/profile/?tab=activity)❌
 
 **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile-url)
 
