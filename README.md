@@ -2,9 +2,9 @@
 
 # Hi there 👋 I'm Ankit
 
-🚀 **Aspiring Software Developer | Java | DSA | Problem Solver**
+🚀 **Love Coding | Java | DSA | Problem Solver**
 
-### 🧠 Coding Profiles
+###  CODING PROFILES
 
 **LeetCode:** [reachAnkit](https://leetcode.com/reachAnkit)
 
