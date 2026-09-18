@@ -5,11 +5,14 @@
 
 ###  CODING PROFILES
 
-**LeetCode:** [reachAnkit](https://leetcode.com/reachAnkit)
+[LEETCODE](https://leetcode.com/reachAnkit)
 
-**GeeksforGeeks:** [](https://www.geeksforgeeks.org/profile/?tab=activity)❌
 
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile-url)❌
+[CREDLY](https://www.credly.com/users/ankit-verma.1dd74964/badges/credly)
+
+[GeeksforGeeks](https://www.geeksforgeeks.org/profile/?tab=activity)❌
+
+[LinkedIn](https://www.linkedin.com/in/your-profile-url)❌
 
 ---
 
