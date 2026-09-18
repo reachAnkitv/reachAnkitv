@@ -9,7 +9,7 @@
 
 **GeeksforGeeks:** [](https://www.geeksforgeeks.org/profile/?tab=activity)❌
 
-**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile-url)
+**LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile-url)❌
 
 ---
 
