@@ -1,8 +1,7 @@
 <div align="center">
 
-# Hi there 👋 I'm Ankit
+# Ankit Verma
 
-🚀 **Love Coding | Java | DSA | Problem Solver**
 
 ###  CODING PROFILES
 
