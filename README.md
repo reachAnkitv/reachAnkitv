@@ -16,6 +16,6 @@
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/reachAnkit?theme=dark&font=Ubuntu)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/reachAnkit?theme=dark&font=Ubuntu)](https://leetcode.com/reachAnkit)
 
 </div>
